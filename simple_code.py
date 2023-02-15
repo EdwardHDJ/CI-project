@@ -1,2 +1,2 @@
 def simple_function():
-        return 1
+        return 2
